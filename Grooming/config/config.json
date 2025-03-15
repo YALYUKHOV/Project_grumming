@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "kek",
+    "password": "kek",
+    "database": "grooming_db",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5432
+  },
+  "test": {
+    "username": "kek",
+    "password": "kek",
+    "database": "grooming_db_test",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5434
+  },
+  "production": {
+    "username": "kek",
+    "password": "kek",
+    "database": "grooming_db",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5432
+  }
+}
